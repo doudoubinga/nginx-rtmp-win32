@@ -1,0 +1,2 @@
+push rtmp://live-ams.twitch.tv/app/live_XYZ_ZXY;
+push rtmp://live.hitbox.tv/push/username?key=XYZ;
