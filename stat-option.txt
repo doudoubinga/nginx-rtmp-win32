@@ -1,4 +1,4 @@
-http {
+﻿http {
         server {
 
 ### 網頁使用 port
@@ -12,7 +12,7 @@ set $httpport 8080;
 include slimstat.conf;
 
 ### 流量統計網頁 (進階)，去除#號啟用(須重新啟動程式)
-# include default-panel;
+# include default-panel.conf;
 
     }
 }
