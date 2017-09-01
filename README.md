@@ -1,8 +1,11 @@
 nginx-rtmp-win32
 ================
 
-Nginx: 1.9.13  
-Nginx-Rtmp-Module: 1.1.7-git  
-openssl-1.0.1s  
-pcre-8.38  
-zlib-1.2.8  
+Nginx: 1.12.1
+Nginx-Rtmp-Module: 1.2.0
+openssl-1.1.0f
+pcre-8.41
+zlib-1.2.11
+
+
+Edit option.txt to add your ingest.
